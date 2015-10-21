@@ -3,3 +3,7 @@ pdns-3.4.6/pdns-3.4.6.tar.bz2:
   object_id: d424a934-a8c8-4655-bd75-650fddf3831e
   sha: 5b01b21e7a2807d9770fea5ed1acc4dc3ed609bd
   size: 1336760
+powerdns/pdns-static_3.3.1-1_amd64.deb:
+  object_id: a29dfe8b-c0f4-4d70-9893-9c507648b67d
+  sha: 22bb46aa0b3e7671e0ee9aa30ed95c38841106ab
+  size: 9353694
